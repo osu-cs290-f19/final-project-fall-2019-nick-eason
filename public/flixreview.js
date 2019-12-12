@@ -59,7 +59,7 @@ function handleModalAcceptClick() {
 				alert("Error: Could not save review post to server: " + responseBody);
 			} else {
 					
-				var reviewPostTemplate = handlebars.templates.post;
+				var reviewPostTemplate = Handlebars.templates.post;
 				var newReviewPostHTML = reviewPostTemplate({
 					url: photoURL,
 					type: type,
