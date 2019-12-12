@@ -21,7 +21,7 @@
   "photoURL": "https://www.peeridium.com/wp-content/uploads/2014/09/gotham-cover.jpg",
   "rating": "3.5",
   "genre": "Action",
-  "review": "While this show serves as a fun reminder of DC villains and has comic-like action and events, it goes against many other transmedia surrounding the DC universe."
+  "review": "While this show serves as a fun reminder of DC villains and has comic-like action and events, it goes against many other transmedia surrounding the DC universe. Don't think too hard about the timeline of this show either. It makes some characters much older than they are in other DC shows and movies. Ah well, it's all worth it to see adolescent Batman becoming who we all grew up admiring. Just kidding, don't think about it that, it's kind of depressing."
  },
  {
   "title": "El Camino",
@@ -56,12 +56,43 @@
   "review": "Get ready to be slightly claustrophobic for the next 2 hours and 6 minutes. The entire movie takes place on a train. Don't you worry, though. You'll get to watch Chris Evans scowl and fight his way from the caboose, to the front engine."
  },
  {
-  "type": "series"
+  "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sbF46FPSuwxB2lt6RBpRcXqz2rm4e68Z1LWX8EaPq5lS-dQzQw&s",
+  "title": "Stranger Things",
+  "type": "series",
+  "rating": "5",
+  "genre": "Action",
+  "review": "If you haven't heard of Stranger Things by now, you probably have lived under a rock for the past few years. This is a fun and funny show featuring an odd bunch of characters and a gripping storyline."
  },
  {
-  "type": "series"
+  "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeDcgawk9xXyt7q5Q95oTNRPvE43wcOXj0e06Mam3YKmMpmwgcg&s",
+  "title": "Black Mirror",
+  "type": "series",
+  "rating": "4.5",
+  "genre": "Other",
+  "review": "Each unique episode tugs at each moral value you think you hold. Be ready to rethink everything you thought you knew about the world."
  },
  {
-  "type": "movies"
+  "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUi3SMVs9hwd2hy7hXAuTdCTLkzBa8U7aHaGf0TSTu355co9qz&s",
+  "title": "The End of the F**king World",
+  "type": "series",
+  "rating": "3.5",
+  "genre": "Drama",
+  "review": "Whoa. This one is not for the faint-hearted. Murder and psychotic people help tell the tale of how quickly one's life could turn upside-down."
+ }, 
+ {
+  "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCzlpaPlJUd9XKjp247M3EfH81MmZ-ncYOh9krm0EPklN14Rn5&s",
+  "title": "Klaus",
+  "type": "movie",
+  "rating": "3",
+  "genre": "Holiday",
+  "review": "'Tis the season! Learn how the Santa we all know and love came to be in this cartoon comedy"
+ },
+ {
+  "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwTX6ykQEZmN_zWh1pQeIRQt2MPFkhlRqpq9s4S-n3vJF-eFJ7&s",
+  "title": "The Matrix",
+  "type": "movie",
+  "rating": "3.5",
+  "genre": "Action",
+  "review": "Everybody's GOT to see the Matrix at some point. If you don't how will you know what everyone else means when they talk about taking the red pill or the blue pill. Hint: one unlocks the Matrix"
  }
 ]
